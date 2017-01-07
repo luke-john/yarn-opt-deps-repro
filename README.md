@@ -19,7 +19,7 @@ Fails:
 * install top level depedencies (yarn)
 ```sh
 yarn install
-``
+```
 * Navigate to example-fail-project
 ```sh
 cd example-fail-project
