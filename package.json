@@ -1,0 +1,10 @@
+{
+  "name": "yarn-opt-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Luke John <email@lukejohn.me>",
+  "license": "MIT",
+  "dependencies": {
+    "yarn": "^0.18.1"
+  }
+}

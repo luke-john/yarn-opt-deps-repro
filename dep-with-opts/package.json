@@ -1,0 +1,9 @@
+{
+  "name": "dep-with-opts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "optionalDependencies": {
+    "dtrace-provider": "~0.8"
+  }
+}

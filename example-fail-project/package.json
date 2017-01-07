@@ -1,0 +1,9 @@
+{
+  "name": "example-fail-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "dep-with-opts": "file:../dep-with-opts"
+  }
+}
